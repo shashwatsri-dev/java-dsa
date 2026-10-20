@@ -2,7 +2,7 @@
 Blind 75 solutions in Java with approach notes
 
 
-**Progress:  3 / 75**
+**Progress:  4 / 75**
 
 ## Arrays & Hashing
 
@@ -11,3 +11,4 @@ Blind 75 solutions in Java with approach notes
 | 1 | Two Sum | HashMap |   Easy | [Java](./arrays-hashing/TwoSum.java) |
 | 217 | Contains Duplicate | HashSet | Easy | [Java](./arrays-hashing/ContainsDuplicate.java) |
 | 242 | Valid Anagram | HashMap | Easy | [Java](./arrays-hashing/ValidAnagram.java) |
+| 49 | Group Anagrams | HashMap (sorted key) | Medium | [Java](./arrays-hashing/GroupAnagrams.java) |
